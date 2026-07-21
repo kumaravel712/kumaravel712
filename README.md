@@ -5,6 +5,9 @@
 I'm an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights. I enjoy working with data, building dashboards, and solving business problems using analytics and visualization tools. I am continuously learning and building real-world projects to strengthen my analytical skills.
 
 ---
+<p align="center">
+  <img src="https://your-image-link.com/banner.png" alt="Banner" width="100%">
+</p>
 
 ## 🚀 About Me
 
