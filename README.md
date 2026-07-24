@@ -9,45 +9,37 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
   <img src="https://your-image-link.com/banner.png" alt="Banner" width="100%">
 </p>
 
-## 🚀 About Me
+# 💫 About Me:
+## About Me<br><br>Aspiring Data Analyst and Engineering student with hands-on experience in data analysis, data visualization, and machine learning. Proficient in Python, SQL, Excel, Power BI, Pandas, NumPy, Matplotlib, and Scikit-learn. Skilled in data cleaning, exploratory data analysis (EDA), dashboard development, KPI reporting, and predictive modeling.<br><br>Experienced in building end-to-end analytics projects using real-world datasets, creating interactive Power BI dashboards, writing SQL queries for business insights, and developing machine learning models. Strong analytical, problem-solving, and communication skills with a passion for turning data into actionable insights.<br><br>Seeking an entry-level Data Analyst opportunity where I can apply my technical expertise, contribute to data-driven decision-making, and continue growing in analytics and business intelligence.<br>
 
-- 🎓 Engineering Student
-- 📊 Aspiring Data Analyst
-- 🌱 Currently learning Data Science & Machine Learning
-- 💡 Interested in Business Intelligence, Data Visualization, and Predictive Analytics
-- 📈 Passionate about solving real-world business problems with data
-- 📫 Email: your-email@example.com
-- 🌐 LinkedIn: https://linkedin.com/in/your-profile
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kumaravel_a_m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/A M Kumaravel) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@A M Kumaravel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amkumaravel5@gmail.com) 
 
-## 🛠️ Technical Skills
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kumaravel712&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kumaravel712&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kumaravel712&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Programming
-- Python,C
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kumaravel712&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Databases
-- SQL (MySQL)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Data Analysis
-- Pandas
-- NumPy
-
-### Data Visualization
-- Matplotlib
-- Power BI
-- Microsoft Excel
-
-### Machine Learning
-- Scikit-learn
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kumaravel712&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=kumaravel712&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
 
 ## 📚 Projects
 
