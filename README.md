@@ -7,7 +7,7 @@
 --->
 # 💫 About Me:
 
-<p>Aspiring Data Analyst and Engineering student with hands-on experience in data analysis, data visualization, and machine learning. Proficient in #Python, SQL, Excel, Power BI, Pandas, NumPy, Matplotlib, and Scikit-learn. Skilled in data cleaning, exploratory data analysis (EDA), dashboard development, KPI reporting, and predictive modeling
+<p>Aspiring Data Analyst and Engineering student with hands-on experience in data analysis, data visualization, and machine learning. Proficient in <h2>Python, SQL, Excel, Power BI, Pandas, NumPy, Matplotlib, and Scikit-learn. Skilled in data cleaning, exploratory data analysis (EDA), dashboard development, KPI reporting, and predictive modeling
   
   Experienced in building end-to-end analytics projects using real-world datasets, creating interactive Power BI dashboards, writing SQL queries for business insights, and developing machine learning models. Strong analytical, problem-solving, and communication skills with a passion for turning data into actionable insights.</p>
   <p>Seeking an entry-level Data Analyst opportunity where I can apply my technical expertise, contribute to data-driven decision-making, and continue growing in analytics and business intelligence.</p>
