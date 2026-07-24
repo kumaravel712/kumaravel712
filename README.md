@@ -7,13 +7,27 @@
 --->
 # 💫 About Me:
 
-<p>Aspiring Data Analyst and Engineering student with hands-on experience in data analysis, data visualization, and machine learning. Proficient in <h2>Python, SQL, Excel, Power BI, Pandas, NumPy, Matplotlib, and Scikit-learn. Skilled in data cleaning, exploratory data analysis (EDA), dashboard development, KPI reporting, and predictive modeling
-  
-  Experienced in building end-to-end analytics projects using real-world datasets, creating interactive Power BI dashboards, writing SQL queries for business insights, and developing machine learning models. Strong analytical, problem-solving, and communication skills with a passion for turning data into actionable insights.</p>
+Aspiring Data Analyst and Engineering student with hands-on experience in data analysis, data visualization, and machine learning. Proficient in <h4>Python, SQL, Excel, Power BI, Pandas, NumPy, Matplotlib, and Scikit-learn. Skilled in data cleaning, exploratory data analysis (EDA), dashboard development, KPI reporting, and predictive modeling</h4>  
+Experienced in building end-to-end analytics projects using real-world datasets, creating interactive Power BI dashboards, writing SQL queries for business insights, and developing machine learning models. Strong analytical, problem-solving, and communication skills with a passion for turning data into actionable insights.
   <p>Seeking an entry-level Data Analyst opportunity where I can apply my technical expertise, contribute to data-driven decision-making, and continue growing in analytics and business intelligence.</p>
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=kumaravel712&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
